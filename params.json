@@ -1,0 +1,6 @@
+{
+  "name": "Hello, my name is Gabriel",
+  "tagline": "I run and read and do data science projects.",
+  "body": "\r\n### Fraud Detection through Machine Learning\r\n\r\n[trained](https://github.com/caplincapture/Enron-Fraud-Detection-through-Machine-Learning) models to predict who was worthy of investigation from the Enron Fraud case in 2003.\r\n\r\n### Data Wrangling in Python and SQL\r\n\r\n[converts](https://github.com/caplincapture/Data-Wrangling-in-Python-and-SQL) map data to SQL tables, which were then queried in a Python-scripted file.\r\n\r\n### Data Visualization in D3.\r\n\r\n[looked](https://github.com/caplincapture/Data_Visualization_in_D3) at data from a Pew Research Poll.\r\n\r\n### Wine Data Analysis\r\n\r\n[predicted](https://github.com/caplincapture/Wine-Data-Analysis-Project) wine quality with a trained regression.\r\n\r\n### A/B Test\r\n\r\n[carried out and reported on](https://github.com/caplincapture/A-B-Test) the findings of an online education startup's A/B test.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
