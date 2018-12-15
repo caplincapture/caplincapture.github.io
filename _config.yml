@@ -1,0 +1,8 @@
+title: Hello, my name is Gabriel
+description: I run and read and do data science projects.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
