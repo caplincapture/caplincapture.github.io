@@ -1,20 +1,20 @@
 
-### Fraud Detection through Machine Learning
+### Satellite Image Recognition
 
-[trained](https://github.com/caplincapture/Enron-Fraud-Detection-through-Machine-Learning) models to predict who was worthy of investigation from the Enron Fraud case in 2003.
+29th place in a [machine learning satellite image recognition](https://github.com/caplincapture/satellite_imaging) competition for the Defense Innovation Unit of the U.S. Department of Defense. 
 
-### Data Wrangling in Python and SQL
+### Expensify Application
 
-[converts](https://github.com/caplincapture/Data-Wrangling-in-Python-and-SQL) map data to SQL tables, which were then queried in a Python-scripted file.
+[Demo](https://gabriel-expensify.herokuapp.com/) expense-managing application. [Repository](https://github.com/caplincapture/expensify-app)
 
-### Data Visualization in D3.
+### Language Translation Machine Learning
 
-[looked](https://github.com/caplincapture/Data_Visualization_in_D3) at data from a Pew Research Poll.
+[A machine learning model](https://github.com/caplincapture/language-translation) which uses LSTM sequence-to-sequence modeling to translate from English to French.
 
-### Wine Data Analysis
+### Generative Adversarial Modeling
 
-[predicted](https://github.com/caplincapture/Wine-Data-Analysis-Project) wine quality with a trained regression.
+[Generative adversarial model](https://github.com/caplincapture/GAN-mnist-celeb) of a dataset of face photos.
 
-### A/B Test
+### Indecision Application
 
-[carried out and reported on](https://github.com/caplincapture/A-B-Test) the findings of an online education startup's A/B test.
+[Application](https://github.com/caplincapture/indecision-app) that helps you make decisions from a list.
